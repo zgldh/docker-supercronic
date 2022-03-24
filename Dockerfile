@@ -1,4 +1,4 @@
-FROM busybox
+FROM byrnedo/alpine-curl
 
 WORKDIR /tmp
 
